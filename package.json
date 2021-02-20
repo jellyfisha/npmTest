@@ -1,5 +1,5 @@
 {
-  "name": "@amzn/npmtest",
+  "name": "haebink-npmtest",
   "version": "1.0.0",
   "description": "Test package",
   "main": "index.js",
